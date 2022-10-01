@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A full stack developer student Living in Finland & studying in Helsinki Business college</h3>
 
-- 🌱 I’m currently learning **React.js & node.js**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
