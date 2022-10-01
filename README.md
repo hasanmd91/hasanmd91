@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A full stack developer student Living in Finland & studying in Helsinki Business college</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47rklb70592h4a8se9jcvi42ubu4pfreur79hnxhf9&rid=giphy.gif&ct=s">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmd91&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmd91" /> </p>
 
