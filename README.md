@@ -1,12 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A full stack developer student Living in Finland & studying in Helsinki Business college</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmd91&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmd91" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanmd91" alt="hasanmd91" /></a> </p>
-
+- 🌱 I’m currently learning **React.js & node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanmd91&show_icons=true&locale=en&layout=compact" alt="hasanmd91" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanmd91&show_icons=true&locale=en" alt="hasanmd91" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmd91&" alt="hasanmd91" /></p>
