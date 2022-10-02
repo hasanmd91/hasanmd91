@@ -1,5 +1,5 @@
 
-<h3 align="center">A full stack developer student Living in Finland & studying in Helsinki Business college</h3>
+<h6 align="left">A full stack developer student Living in Finland & studying in Helsinki Business college</h6>
 
 
 
