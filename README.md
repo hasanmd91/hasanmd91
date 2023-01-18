@@ -1,5 +1,5 @@
 
-<h3 align="left">A full-stack developer student @Helsinki Business College.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
